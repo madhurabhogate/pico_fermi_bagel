@@ -21,7 +21,7 @@ _“bagels”_, What does a bagel look like? A zero! it means you got zero corre
 
 Example:
 Say the number you want to guess is '629'
-``````
+```
 Guess the 3 digit number
 >123
 F 
